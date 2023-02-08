@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Matt Ho
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+email: contact@mattbho.com
+linkedin: https://www.linkedin.com/in/matthew-ho-5032a1133/
+github: https://github.com/mattbho
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi there, my name is Matt! Welcome to my website. I'm an full stack software engineer with a strong background in SaaS product engineering, and full stack web development.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I'm a passionate learner, so here you will find all of my documentation and notes that pertain to my current interests!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+(Be prepared for tons of dotfiles because I love tinkering with my daily workflow. Arch Linux, Neovim, Window managers, etc.)
