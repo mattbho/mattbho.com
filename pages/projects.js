@@ -3,6 +3,12 @@ import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
+export function getStaticProps() {
+  return {
+    notFound: true,
+  }
+}
+
 export default function Projects() {
   return (
     <>

@@ -14,7 +14,7 @@ const siteMetadata = require('../data/siteMetadata')
     'public/tags/**/*.xml',
     '!pages/_*.js',
     '!pages/_*.tsx',
-    '!pages/api',
+    '!pages/projects.js',
   ])
 
   const sitemap = `

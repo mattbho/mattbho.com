@@ -11,9 +11,9 @@ Today we'll be making a GIPHY instant search app. This is a great app for beginn
 # Prerequisites
 
 - NodeJS v16+
-- NPM v6+
+- Yarn v0.25+
 
-_NOTE: If you are using Yarn like me, you will need 0.25+_
+_NOTE: If you using NPM, you will need v6+_
 
 ## Set Up a GIPHY API key
 
