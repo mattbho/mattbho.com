@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Matt Ho | Full Stack Software Engineer | contact@mattbho.com',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://mattbho.com',
+  siteUrl: 'https://www.mattbho.com',
   siteRepo: 'https://github.com/mattbho/mattbho.com',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
